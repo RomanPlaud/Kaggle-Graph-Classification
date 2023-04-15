@@ -5,4 +5,4 @@ Report and experiments done for the [Data Challenge - Kernel methods](https://ww
 Report with our contributions to find [here](https://github.com/AmbroiseOdonnat/OTKE/blob/main/Kernel_Methods_report.pdf).
 
 ## Code
-Python implementation of our experiments to find [here](https://github.com/AmbroiseOdonnat/OTKE/blob/main/main.ipynb).
+Python implementation of our experiments to find [here](https://github.com/AmbroiseOdonnat/Kaggle-Graph-Classification/blob/main/main.ipynb).
