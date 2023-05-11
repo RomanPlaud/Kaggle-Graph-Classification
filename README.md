@@ -4,5 +4,11 @@ Report and experiments done for the [Data Challenge - Kernel methods](https://ww
 ## Report
 Report with our contributions to find [here](https://github.com/AmbroiseOdonnat/Kaggle-Graph-Classification/blob/main/Kaggle_challenge_report.pdf).
 
+## Contributions
+Our work consist in developping (by hand) graph kernels as well as classification algorithms
+
 ## Code
 Python implementation of our experiments to find [here](https://github.com/AmbroiseOdonnat/Kaggle-Graph-Classification/blob/main/main.ipynb).
+
+## Results
+We finish 15th out of 53 teams.
